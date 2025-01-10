@@ -25,6 +25,9 @@ To run this program, you need the following Python libraries installed:
 5. Click the "Generate" button to create the QR code.
 6. The QR code will be displayed in the application window
 
+<img width="305" alt="image" src="https://github.com/user-attachments/assets/72d900d2-1d4a-4ff4-b4c2-8f3065f9e4de" />
+
+
 # Thank you for reading 🤝
 
 
